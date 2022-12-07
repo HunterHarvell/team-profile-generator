@@ -32,7 +32,9 @@ Repository: https://github.com/HunterHarvell/team-profile-generator.git
 After the user has downloaded the proper dependencies using "node i", the user can start the application by running "node index.js". Follow the prompts to build your team, and when you are done the index.html file will update with your information.
 
 ![Adding Profiles](https://github.com/hunterharvell/team-profile-generator/demo/creating-profiles.gif)
+https://github.com/HunterHarvell/team-profile-generator/blob/main/demo/creating-profiles.gif
 
 To test the application, the user can run Jest with the command "npm test". This will test the inputed data for possible mistakes. 
 
 ![Running Tests](https://github.com/hunterharvell/team-profile-generator/demo/tests.gif)
+https://github.com/HunterHarvell/team-profile-generator/blob/main/demo/tests.gif
